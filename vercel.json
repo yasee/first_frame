@@ -6,7 +6,7 @@
   "framework": null,
   "builds": [
     {
-        "src": "./src/index.ts",
+        "src": "*.js",
         "use": "@vercel/node"
     }
   ],
